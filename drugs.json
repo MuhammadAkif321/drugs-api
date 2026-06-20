@@ -1,0 +1,566 @@
+{
+  "v":"3.0",
+  "total":100,
+  "drugs":[
+    {
+      "f":"Paracetamol",
+      "b":["Panadol","Calpol","Disprol","Omnidol","Paracin","Febrilix","Perfalgan","Pacimol"],
+      "c":"Painkiller",
+      "u":"Paracetamol is used to relieve mild to moderate pain including headache, toothache, backache, period pain, and cold or flu symptoms. It is also widely used to reduce high body temperature (fever) in adults and children. It is one of the safest and most commonly used medicines worldwide and is suitable for pregnant women when used correctly.",
+      "s":"This medicine treats: Headache, Migraine, Toothache, Earache, Sore throat, Body aches, Muscle pain, Joint pain, Backache, Period pain, Fever, Cold and flu symptoms, Post-vaccination fever in children, Pain after surgery or injury.",
+      "d":"Adults: 500mg to 1000mg every 4 to 6 hours. Maximum 4000mg per day. Children: dose based on weight, usually 10-15mg per kg every 4-6 hours.",
+      "se":"Paracetamol is very safe when taken correctly. Rare side effects include skin rash, liver damage if overdosed, and allergic reaction.",
+      "w":"Never exceed recommended dose. Avoid alcohol while taking. Do not take with other medicines containing paracetamol. Overdose can cause serious liver damage."
+    },
+    {
+      "f":"Ibuprofen",
+      "b":["Brufen","Advil","Nurofen","Reufen","Motrin","Ibugesic","Febugesic","Caldolor"],
+      "c":"Anti-inflammatory",
+      "u":"Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID) used to reduce pain, inflammation, and fever. It is commonly used for headache, dental pain, menstrual cramps, muscle aches, arthritis, and minor injuries. It works by blocking chemicals in the body that cause pain and inflammation.",
+      "s":"This medicine treats: Headache, Dental pain, Menstrual cramps, Muscle pain, Joint pain, Arthritis, Sports injuries, Back pain, Fever, Cold and flu symptoms, Inflammation after injury, Minor surgical pain.",
+      "d":"Adults: 200-400mg every 4-6 hours. Maximum 1200mg per day without doctor advice. Take with food or milk to protect stomach.",
+      "se":"Common: stomach upset, nausea, heartburn. Serious: stomach ulcers, kidney problems, increased blood pressure, allergic reactions.",
+      "w":"Avoid in pregnancy, especially last 3 months. Use with caution in elderly and people with kidney, liver or heart disease. Always take with food."
+    },
+    {
+      "f":"Amoxicillin",
+      "b":["Amoxil","Trimox","Biomox","Hiconcil","Amoxi","Ospamox","Moxatag"],
+      "c":"Antibiotic",
+      "u":"Amoxicillin is a penicillin type antibiotic used to treat a wide range of bacterial infections. It works by killing bacteria or stopping their growth. It is commonly prescribed for ear infections, throat infections, chest infections, urinary tract infections, skin infections, and dental infections.",
+      "s":"This medicine treats: Ear infections, Throat infections (tonsillitis), Chest infections (pneumonia, bronchitis), Urinary tract infections (UTI), Skin infections, Dental abscesses, Sinusitis, H. pylori stomach infection, Lyme disease.",
+      "d":"Adults: 250-500mg three times daily. Severe infections: 500-1000mg three times daily. Children: 25mg per kg per day in divided doses. Complete full course even if feeling better.",
+      "se":"Common: diarrhea, stomach upset, nausea, skin rash. Serious: severe allergic reaction, severe skin rash, liver problems.",
+      "w":"Tell doctor if allergic to penicillin. Complete full antibiotic course. Do not use for viral infections like cold or flu."
+    },
+    {
+      "f":"Amoxicillin+Clavulanate",
+      "b":["Augmentin","Calamox","Clavamox","Co-amoxiclav","Amoclan","Tyclav","Synermox","Forcid"],
+      "c":"Antibiotic",
+      "u":"Augmentin is a combination antibiotic containing amoxicillin and clavulanate potassium. The clavulanate helps amoxicillin work against bacteria that have become resistant. It is stronger than plain amoxicillin and is used for more serious or resistant bacterial infections including chest infections, sinusitis, ear infections, skin infections, and urinary tract infections.",
+      "s":"This medicine treats: Severe ear infections, Sinusitis, Chest infections, Pneumonia, Skin and soft tissue infections, Urinary tract infections, Dental infections, Animal bite infections, Bone infections, Resistant bacterial infections.",
+      "d":"Adults: 375mg to 625mg twice or three times daily with food. Severe infections: 1000mg twice daily. Children: dose based on weight. Always take with food to reduce stomach upset.",
+      "se":"Common: diarrhea, nausea, vomiting, skin rash. Serious: liver damage, severe allergic reaction, severe diarrhea (C. difficile).",
+      "w":"Tell doctor about penicillin allergy. Take with food. Complete full course. May cause more diarrhea than plain amoxicillin."
+    },
+    {
+      "f":"Azithromycin",
+      "b":["Zithromax","Azithral","Atizor","Azicip","Z-pak","Zithrox","Azimax","Sumamed"],
+      "c":"Antibiotic",
+      "u":"Azithromycin is a macrolide antibiotic used to treat various bacterial infections. It is commonly prescribed for chest infections, throat infections, skin infections, ear infections, and sexually transmitted infections. It is taken once daily for a short course (usually 3-5 days) making it convenient for patients.",
+      "s":"This medicine treats: Chest infections (pneumonia, bronchitis), Throat infections, Ear infections, Skin infections, Sexually transmitted infections (chlamydia), Sinusitis, Traveler's diarrhea, H. pylori infection, Typhoid fever.",
+      "d":"Adults: 500mg once daily for 3 days, or 500mg on day 1 then 250mg once daily for 4 days. Children: 10mg per kg once daily for 3 days. Take on empty stomach or with food.",
+      "se":"Common: nausea, diarrhea, stomach pain, vomiting. Serious: heart rhythm problems, liver problems, severe allergic reactions.",
+      "w":"Tell doctor about heart problems. Avoid taking antacids within 2 hours. Avoid in patients with liver disease."
+    },
+    {
+      "f":"Ciprofloxacin",
+      "b":["Cipro","Cifran","Ciplox","Ciproxin","Ciprobay","Proquin","Cetraxal"],
+      "c":"Antibiotic",
+      "u":"Ciprofloxacin is a fluoroquinolone antibiotic used to treat serious bacterial infections. It is effective against a wide range of bacteria and is used for urinary tract infections, respiratory infections, skin infections, bone infections, typhoid fever, and traveler's diarrhea. It works by preventing bacteria from copying their DNA.",
+      "s":"This medicine treats: Urinary tract infections, Kidney infections, Typhoid fever, Traveler's diarrhea, Respiratory infections, Skin infections, Bone and joint infections, Sexually transmitted infections, Anthrax prevention, Eye infections.",
+      "d":"Adults: 250-750mg twice daily depending on infection type. Urinary infections: 250mg twice daily for 3-7 days. Serious infections: 500-750mg twice daily for 7-14 days.",
+      "se":"Common: nausea, diarrhea, headache, dizziness. Serious: tendon damage, nerve problems, heart rhythm issues, mental health effects.",
+      "w":"Avoid in children under 18 except special cases. Avoid in pregnancy. Do not take with antacids, milk or calcium-fortified juices. Stop and contact doctor if tendon pain occurs."
+    },
+    {
+      "f":"Metronidazole",
+      "b":["Flagyl","Metrogyl","Rozex","Nidazole","Anabact","Metrol","Vagilen"],
+      "c":"Antibiotic",
+      "u":"Metronidazole is an antibiotic and antiprotozoal medicine used to treat infections caused by bacteria and parasites. It is effective against anaerobic bacteria and is commonly used for dental infections, stomach infections, vaginal infections, skin infections, and liver abscesses. It is also used to treat amoebiasis and giardia.",
+      "s":"This medicine treats: Dental infections, Stomach infections, Vaginal infections (bacterial vaginosis, trichomoniasis), Intestinal infections (amoebiasis, giardia), Liver abscess, Skin infections, Peritonitis, H. pylori stomach ulcer, Pelvic infections.",
+      "d":"Adults: 400mg three times daily for 5-7 days. Amoebiasis: 800mg three times daily for 5-10 days. Children: 7.5mg per kg three times daily. Take with food.",
+      "se":"Common: nausea, metallic taste in mouth, headache, diarrhea. Serious: nerve damage with long use, severe allergic reactions, dark urine.",
+      "w":"Strictly avoid alcohol during treatment and 48 hours after. Can interact with blood thinners. Avoid in first trimester of pregnancy."
+    },
+    {
+      "f":"Omeprazole",
+      "b":["Risek","Losec","Prilosec","Omez","Zegerid","Antrum","Omeprol"],
+      "c":"Antacid",
+      "u":"Omeprazole is a proton pump inhibitor (PPI) that reduces the amount of acid produced in the stomach. It is used to treat acid reflux, heartburn, stomach ulcers, and a condition called GERD (gastroesophageal reflux disease). It is also used with antibiotics to treat H. pylori bacteria that cause stomach ulcers.",
+      "s":"This medicine treats: Acid reflux and heartburn, GERD (gastroesophageal reflux disease), Stomach ulcers, Duodenal ulcers, H. pylori infection, Zollinger-Ellison syndrome, Damage to stomach from NSAIDs like ibuprofen, Esophagitis.",
+      "d":"Adults: 20mg once daily before breakfast. For ulcers: 20-40mg once daily for 4-8 weeks. H. pylori: 20mg twice daily with antibiotics for 7-14 days.",
+      "se":"Common: headache, diarrhea, nausea, stomach pain, constipation. Long term use: low magnesium, low B12, bone fractures, kidney problems.",
+      "w":"Do not use long term without doctor advice. May hide serious stomach conditions. Take 30 minutes before eating for best effect."
+    },
+    {
+      "f":"Pantoprazole",
+      "b":["Protonix","Pantop","Pantocid","Controloc","Tecta","Pantozol","Pantoloc"],
+      "c":"Antacid",
+      "u":"Pantoprazole is a proton pump inhibitor used to reduce stomach acid production. It is prescribed for acid reflux, GERD, stomach ulcers, and erosive esophagitis. It provides longer acid suppression compared to some other antacids and is often preferred for patients who need sustained acid control throughout the day.",
+      "s":"This medicine treats: Acid reflux, GERD, Heartburn, Stomach ulcers, Duodenal ulcers, Erosive esophagitis, H. pylori infection (with antibiotics), Zollinger-Ellison syndrome, Prevention of NSAID-induced ulcers.",
+      "d":"Adults: 40mg once daily before breakfast. Severe cases: 40mg twice daily. Take at least 30 minutes before meals for maximum effect.",
+      "se":"Common: headache, diarrhea, nausea, stomach pain. Long term: low magnesium, increased risk of bone fractures, kidney problems.",
+      "w":"Do not crush or chew tablet. Take before eating. Long term use should be monitored by doctor."
+    },
+    {
+      "f":"Metformin",
+      "b":["Glucophage","Diabex","Fortamet","Riomet","Metforal","Obimet","Glycomet"],
+      "c":"Diabetes",
+      "u":"Metformin is the most commonly prescribed medicine for type 2 diabetes. It works by reducing the amount of sugar the liver releases into the blood and making cells more sensitive to insulin. It does not cause weight gain like some other diabetes medicines and may actually help with weight loss. It is often the first medicine prescribed when type 2 diabetes is diagnosed.",
+      "s":"This medicine treats: Type 2 diabetes mellitus, High blood sugar levels, Insulin resistance, Polycystic ovary syndrome (PCOS), Pre-diabetes (prevention of diabetes), Metabolic syndrome.",
+      "d":"Adults: Start with 500mg once or twice daily with meals. Gradually increase to 1000-2000mg daily. Maximum 3000mg per day. Always take with food to reduce stomach upset.",
+      "se":"Common: nausea, diarrhea, stomach upset, metallic taste (usually improve with time). Rare serious: lactic acidosis (very rare but serious).",
+      "w":"Stop before surgery or iodine contrast scans. Avoid excessive alcohol. Monitor kidney function regularly. Not suitable for patients with severe kidney disease."
+    },
+    {
+      "f":"Amlodipine",
+      "b":["Norvasc","Istin","Amlopin","Amlopres","Stamlo","Amloz","Myodura","Camlodin"],
+      "c":"Blood Pressure",
+      "u":"Amlodipine is a calcium channel blocker used to treat high blood pressure (hypertension) and chest pain (angina). It works by relaxing blood vessels so the heart does not have to work as hard. It is taken once daily and provides 24-hour blood pressure control. It is one of the most commonly prescribed blood pressure medicines worldwide.",
+      "s":"This medicine treats: High blood pressure (hypertension), Chest pain (angina), Coronary artery disease, Prevention of heart attack, Raynaud's phenomenon, Heart failure (used with other medicines).",
+      "d":"Adults: Start with 5mg once daily. Increase to 10mg once daily if needed. Elderly patients start with 2.5mg. Take at same time each day with or without food.",
+      "se":"Common: ankle swelling, flushing, headache, dizziness, palpitations. These usually improve after a few weeks.",
+      "w":"Do not stop suddenly without doctor advice. Grapefruit juice may increase drug levels. Regular blood pressure monitoring needed."
+    },
+    {
+      "f":"Atorvastatin",
+      "b":["Lipitor","Torvast","Atorva","Storvas","Tonact","Atorlip","Aztor","Atocor"],
+      "c":"Cholesterol",
+      "u":"Atorvastatin is a statin medicine used to lower high cholesterol and triglycerides in the blood. It reduces the risk of heart attack, stroke, and other heart problems. It works by blocking an enzyme in the liver that produces cholesterol. It is most effective when combined with a healthy diet and regular exercise.",
+      "s":"This medicine treats: High cholesterol (hypercholesterolemia), High triglycerides, Prevention of heart attack and stroke, Coronary heart disease, Familial hypercholesterolemia, Cardiovascular disease prevention in diabetic patients.",
+      "d":"Adults: 10-20mg once daily. Can increase to 40-80mg daily if needed. Take at any time of day with or without food. Usually taken long term.",
+      "se":"Common: muscle pain, headache, nausea, diarrhea, joint pain. Serious: severe muscle damage (rhabdomyolysis), liver problems.",
+      "w":"Report unexplained muscle pain immediately. Regular liver tests needed. Avoid grapefruit juice. Not safe in pregnancy or breastfeeding."
+    },
+    {
+      "f":"Losartan",
+      "b":["Cozaar","Lortaan","Losium","Losacar","Repace","Tozaar","Losar"],
+      "c":"Blood Pressure",
+      "u":"Losartan is an angiotensin receptor blocker (ARB) used to treat high blood pressure and protect the kidneys in diabetic patients. It works by blocking a chemical that causes blood vessels to narrow, allowing blood to flow more easily. It is also used in patients with heart failure and to reduce the risk of stroke.",
+      "s":"This medicine treats: High blood pressure, Diabetic kidney disease, Heart failure, Stroke prevention in patients with heart enlargement, High blood pressure with left ventricular hypertrophy.",
+      "d":"Adults: 50mg once daily. Can increase to 100mg once daily. Kidney protection in diabetes: 50-100mg once daily.",
+      "se":"Common: dizziness, back pain, nasal congestion, high potassium levels. Rare: kidney problems, low blood pressure.",
+      "w":"Not safe in pregnancy. Monitor blood potassium levels. Avoid potassium supplements unless directed by doctor."
+    },
+    {
+      "f":"Aspirin",
+      "b":["Disprin","Ecosprin","Aspro","Bufferin","Bayer Aspirin","Cardiprin","Micropyrin"],
+      "c":"Painkiller",
+      "u":"Aspirin is used in two main ways. At higher doses it relieves pain, fever, and inflammation. At low doses (75-100mg) it is used as a blood thinner to prevent heart attacks and strokes in patients at risk. It is one of the oldest and most studied medicines in the world and remains widely used for both pain relief and heart protection.",
+      "s":"This medicine treats: Headache, Fever, Muscle pain, Toothache, Period pain, Joint pain, Inflammation, Prevention of heart attack, Prevention of stroke, Blood clot prevention, Angina (chest pain).",
+      "d":"Pain relief: 300-900mg every 4-6 hours. Maximum 4000mg per day. Blood thinning: 75-100mg once daily with food.",
+      "se":"Common: stomach upset, heartburn, nausea. Serious: stomach bleeding, ulcers, allergic reactions, increased bleeding time.",
+      "w":"Avoid in children under 16 (risk of Reye syndrome). Avoid in pregnancy especially last trimester. Causes increased bleeding risk. Take with food."
+    },
+    {
+      "f":"Diclofenac",
+      "b":["Voltaren","Cataflam","Voveran","Diclomol","Reactine","Abitren","Diclomax"],
+      "c":"Anti-inflammatory",
+      "u":"Diclofenac is a non-steroidal anti-inflammatory drug (NSAID) used to treat pain, inflammation, and swelling. It is commonly prescribed for arthritis, sports injuries, back pain, dental pain, menstrual cramps, and post-surgical pain. It is available as tablets, injections, gels, and eye drops for different conditions.",
+      "s":"This medicine treats: Arthritis (rheumatoid and osteoarthritis), Back pain, Sports injuries and sprains, Dental pain, Menstrual cramps, Post-surgical pain, Gout attacks, Migraine, Inflammation and swelling, Eye inflammation.",
+      "d":"Adults: 75-150mg daily in divided doses. Modified release: 100mg once daily. Gel: apply 3-4 times daily to affected area. Always take oral form with food.",
+      "se":"Common: stomach upset, nausea, headache. Serious: stomach ulcers and bleeding, kidney damage, increased blood pressure, heart problems with long use.",
+      "w":"Avoid in pregnancy. Avoid with other NSAIDs. Use lowest effective dose for shortest time. Regular monitoring needed for long-term use."
+    },
+    {
+      "f":"Cetirizine",
+      "b":["Zyrtec","Zirtec","Allertek","Cetzine","Cetriz","Reactine","Piriteze"],
+      "c":"Antihistamine",
+      "u":"Cetirizine is a second generation antihistamine used to relieve allergy symptoms. Unlike older antihistamines it causes less drowsiness and is taken once daily. It works by blocking histamine receptors that cause allergic symptoms. It is used for hay fever, allergic rhinitis, hives, and other allergic reactions.",
+      "s":"This medicine treats: Hay fever (seasonal allergic rhinitis), Year-round allergies, Hives (urticaria), Itchy skin, Runny nose and sneezing from allergies, Watery and itchy eyes, Insect bite reactions, Eczema itching, Pet and dust allergies.",
+      "d":"Adults and children over 12: 10mg once daily. Children 6-12 years: 5mg twice daily or 10mg once daily. Take with or without food. Evening dosing recommended if drowsiness occurs.",
+      "se":"Common: mild drowsiness, dry mouth, headache, dizziness. Generally well tolerated with few side effects.",
+      "w":"May cause some drowsiness in some people. Avoid alcohol. Use with caution when driving. Reduce dose in kidney disease."
+    },
+    {
+      "f":"Loratadine",
+      "b":["Claritin","Clarityn","Claratyne","Loridin","Lorfast","Rinolan"],
+      "c":"Antihistamine",
+      "u":"Loratadine is a non-drowsy antihistamine used to relieve allergy symptoms. It works by blocking histamine in the body without crossing into the brain significantly, making it less sedating than older antihistamines. It provides 24-hour relief from allergy symptoms and is suitable for daytime use.",
+      "s":"This medicine treats: Hay fever symptoms, Sneezing and runny nose, Itchy and watery eyes, Skin hives and itching, Year-round allergic rhinitis, Pet dander allergy, Dust mite allergy, Pollen allergy.",
+      "d":"Adults and children over 12: 10mg once daily. Children 2-12 years: 5mg once daily if under 30kg, 10mg if over 30kg. Take with or without food.",
+      "se":"Very few side effects. Occasionally: headache, dry mouth, fatigue. Rarely causes drowsiness.",
+      "w":"One of the safest antihistamines. Suitable for daytime use. Reduce dose in kidney or liver disease."
+    },
+    {
+      "f":"Salbutamol",
+      "b":["Ventolin","Asthalin","Proventil","Airomir","Salamol","Sultolin","Salbuvent"],
+      "c":"Bronchodilator",
+      "u":"Salbutamol is a short-acting bronchodilator (reliever inhaler) used to treat and prevent symptoms of asthma and COPD. It works quickly to relax the muscles in the airways allowing more air to pass through. It is the most commonly used reliever inhaler and should always be carried by asthma patients for immediate relief during an attack.",
+      "s":"This medicine treats: Asthma attacks, Breathing difficulty, Wheezing, Chest tightness, Shortness of breath, COPD symptoms, Exercise-induced bronchospasm, Allergic bronchospasm, Acute bronchitis wheeze.",
+      "d":"Relief of attack: 1-2 puffs (100-200mcg) as needed. Prevention before exercise: 2 puffs 15-30 minutes before. Maximum 8 puffs in 24 hours without medical advice.",
+      "se":"Common: tremors (shaking hands), fast heartbeat, headache, nervousness, low potassium with high doses.",
+      "w":"If using reliever more than 3 times per week seek medical review. Do not stop preventer inhaler when using reliever. Shake inhaler before use."
+    },
+    {
+      "f":"Montelukast",
+      "b":["Singulair","Montek","Montair","Monly","Romilast","Xalar","Airon"],
+      "c":"Asthma",
+      "u":"Montelukast is a leukotriene receptor antagonist used to prevent asthma symptoms and treat allergic rhinitis. It works by blocking leukotrienes which are chemicals that cause inflammation, mucus production, and airway narrowing in asthma and allergies. It is taken once daily and is suitable for both adults and children.",
+      "s":"This medicine treats: Chronic asthma prevention, Allergic rhinitis (hay fever), Exercise-induced asthma, Prevention of asthma attacks, Year-round allergic rhinitis, Asthma triggered by allergies, Skin hives (urticaria).",
+      "d":"Adults: 10mg once daily in the evening. Children 6-14 years: 5mg once daily. Children 2-5 years: 4mg once daily. Take in the evening for asthma control.",
+      "se":"Common: headache, stomach pain, diarrhea. Rare but serious: mood changes, depression, suicidal thoughts, sleep problems.",
+      "w":"Report any mood or behavior changes immediately. Not for acute asthma attacks. Continue other asthma medicines unless doctor advises otherwise."
+    },
+    {
+      "f":"Sertraline",
+      "b":["Zoloft","Lustral","Serta","Sertraline HCl","Asentra","Gladem","Serlain"],
+      "c":"Antidepressant",
+      "u":"Sertraline is a selective serotonin reuptake inhibitor (SSRI) antidepressant used to treat depression, anxiety disorders, OCD, PTSD, and panic disorder. It works by increasing serotonin levels in the brain which helps regulate mood, sleep, appetite, and anxiety. It usually takes 4-6 weeks to show full benefit.",
+      "s":"This medicine treats: Depression, Generalized anxiety disorder, Panic disorder, Obsessive compulsive disorder (OCD), Post-traumatic stress disorder (PTSD), Social anxiety disorder, Premenstrual dysphoric disorder.",
+      "d":"Adults: Start with 50mg once daily. Can increase to 100-200mg after 4 weeks. Children with OCD: Start with 25mg once daily. Take at same time each day with or without food.",
+      "se":"Common: nausea, diarrhea, insomnia, dry mouth, sweating, sexual problems. Usually improve after first few weeks.",
+      "w":"Do not stop suddenly. Increase in suicidal thoughts possible initially especially in young people. Takes 4-6 weeks for full effect. Avoid alcohol."
+    },
+    {
+      "f":"Fluoxetine",
+      "b":["Prozac","Sarafem","Fluox","Fludep","Flutine","Olipar","Oxactin"],
+      "c":"Antidepressant",
+      "u":"Fluoxetine is one of the most widely used antidepressants in the world. It is an SSRI that treats depression, anxiety, OCD, bulimia nervosa, and panic disorder. It has a long half-life meaning it stays in the body for weeks which makes it easier to manage if doses are missed and reduces discontinuation effects.",
+      "s":"This medicine treats: Depression, OCD (obsessive compulsive disorder), Panic disorder, Bulimia nervosa, Anxiety, Premenstrual dysphoric disorder, Bipolar depression (with mood stabilizer).",
+      "d":"Adults: 20mg once daily in the morning. Can increase to 40-60mg after several weeks. Bulimia: 60mg once daily. Take in the morning as it can cause insomnia if taken at night.",
+      "se":"Common: nausea, headache, insomnia, anxiety, sexual dysfunction, weight changes. Usually improve after first few weeks.",
+      "w":"Takes 4-6 weeks for full effect. Do not stop suddenly. Monitor young patients for suicidal thoughts. Can interact with many medicines."
+    },
+    {
+      "f":"Diazepam",
+      "b":["Valium","Stesolid","Rimapam","Tensium","Diazemuls","Alupram","Diastat"],
+      "c":"Anxiolytic",
+      "u":"Diazepam is a benzodiazepine medicine used to treat anxiety, muscle spasms, alcohol withdrawal, and seizures. It works by enhancing the effect of GABA in the brain which has a calming effect on the nervous system. It is very effective but can cause dependence so is usually prescribed for short periods only.",
+      "s":"This medicine treats: Anxiety and panic attacks, Muscle spasms and cramps, Alcohol withdrawal symptoms, Seizures and epilepsy, Insomnia (short term), Restless legs, Pre-operative anxiety, Tetanus muscle spasms.",
+      "d":"Anxiety: 2-10mg two to four times daily. Muscle spasm: 5-15mg daily in divided doses. Usually prescribed for maximum 2-4 weeks only.",
+      "se":"Common: drowsiness, dizziness, confusion, poor coordination, memory problems. Serious: dependence, withdrawal symptoms if stopped suddenly.",
+      "w":"Highly addictive. Do not use long term. Do not drive or operate machinery. Do not combine with alcohol. Never stop suddenly after long use."
+    },
+    {
+      "f":"Gabapentin",
+      "b":["Neurontin","Gabapin","Gabatop","Gabantin","Gaba","Gralise","Konvalia"],
+      "c":"Anticonvulsant",
+      "u":"Gabapentin is used to treat epilepsy, nerve pain, and restless leg syndrome. It works by affecting chemicals and nerves in the body that cause seizures and certain types of pain. It is commonly used for diabetic neuropathy, post-herpetic neuralgia (nerve pain after shingles), and fibromyalgia.",
+      "s":"This medicine treats: Epilepsy (partial seizures), Diabetic nerve pain, Post-shingles nerve pain, Fibromyalgia, Restless legs syndrome, Hot flushes after cancer treatment, Alcohol withdrawal, Anxiety (off-label use).",
+      "d":"Epilepsy: 300-1200mg three times daily. Nerve pain: start 300mg once daily, increase gradually to 1800-3600mg daily in divided doses.",
+      "se":"Common: dizziness, drowsiness, coordination problems, weight gain, swollen ankles, blurred vision.",
+      "w":"Do not stop suddenly. Causes drowsiness so avoid driving initially. Risk of addiction. Reduce dose slowly when stopping."
+    },
+    {
+      "f":"Pregabalin",
+      "b":["Lyrica","Pregab","Pregalin","Nervigesic","Pregastar","Pregarica","Alzain"],
+      "c":"Anticonvulsant",
+      "u":"Pregabalin is used to treat nerve pain, epilepsy, generalized anxiety disorder, and fibromyalgia. It is similar to gabapentin but is more potent and absorbed more predictably. It is commonly prescribed for diabetic neuropathy, post-herpetic neuralgia, and chronic pain conditions.",
+      "s":"This medicine treats: Diabetic nerve pain, Post-shingles nerve pain, Fibromyalgia, Generalized anxiety disorder, Epilepsy, Spinal cord injury pain, Restless legs syndrome, Chronic back pain with nerve component.",
+      "d":"Nerve pain: 75-150mg twice daily, increase to 300mg twice daily. Anxiety: 75mg twice daily, increase to 150-300mg twice daily. Epilepsy: 150-600mg daily in 2-3 doses.",
+      "se":"Common: dizziness, drowsiness, weight gain, blurred vision, dry mouth, swollen hands and feet.",
+      "w":"High potential for misuse and dependence. Do not stop suddenly. Impairs driving ability. Avoid alcohol."
+    },
+    {
+      "f":"Warfarin",
+      "b":["Coumadin","Marevan","Warf","Warfarex","Jantoven","Aldocumar"],
+      "c":"Anticoagulant",
+      "u":"Warfarin is a blood thinner (anticoagulant) used to prevent and treat blood clots. It reduces the risk of stroke, heart attack, and deep vein thrombosis. It works by blocking Vitamin K which is needed for blood clotting. Regular blood tests (INR) are essential to ensure the dose is correct and safe.",
+      "s":"This medicine treats: Blood clot prevention, Deep vein thrombosis (DVT), Pulmonary embolism, Stroke prevention in atrial fibrillation, Heart valve replacement, Prevention of clots after heart attack.",
+      "d":"Dose is individual and based on regular INR blood tests. Usual starting dose 5mg daily. Adjusted to keep INR between 2-3 (or 2.5-3.5 for mechanical heart valves).",
+      "se":"Common: bleeding (nosebleeds, bruising, heavy periods). Serious: internal bleeding which can be life threatening.",
+      "w":"Regular INR blood tests essential. Many food and medicine interactions. Green leafy vegetables affect warfarin levels. Report any unusual bleeding immediately."
+    },
+    {
+      "f":"Clopidogrel",
+      "b":["Plavix","Deplatt","Clopilet","Clodrel","Clopivas","Pidogrel","Clopicard"],
+      "c":"Antiplatelet",
+      "u":"Clopidogrel is an antiplatelet medicine that prevents blood clots by stopping platelets from sticking together. It is used after heart attack, stroke, or placement of a coronary stent to prevent further clotting events. It is often used together with aspirin for dual antiplatelet therapy.",
+      "s":"This medicine treats: Prevention of heart attack recurrence, Prevention of stroke recurrence, After coronary stent placement, Peripheral arterial disease, Acute coronary syndrome, Prevention of blood clots in high-risk patients.",
+      "d":"Adults: 75mg once daily with or without food. Loading dose after heart attack or stent: 300-600mg as a single dose.",
+      "se":"Common: bruising, nosebleeds, stomach pain. Serious: severe bleeding, thrombotic thrombocytopenic purpura (rare).",
+      "w":"Tell all doctors including dentist that you take this medicine. Increases bleeding risk. Do not stop without doctor advice as this can cause stent clotting."
+    },
+    {
+      "f":"Furosemide",
+      "b":["Lasix","Frusemide","Frusenex","Frusid","Urex","Salix","Frumil"],
+      "c":"Diuretic",
+      "u":"Furosemide is a powerful diuretic (water tablet) that helps the kidneys remove excess water and salt from the body. It is used to treat fluid retention (edema) caused by heart failure, liver disease, and kidney disease. It works within an hour and produces significant increase in urine output.",
+      "s":"This medicine treats: Fluid retention (edema), Heart failure, High blood pressure, Kidney disease related swelling, Liver cirrhosis with fluid buildup, Pulmonary edema (fluid in lungs), Ankle and leg swelling.",
+      "d":"Adults: 20-80mg once daily in the morning. Heart failure: 40-120mg daily. Take in the morning to avoid nighttime urination.",
+      "se":"Common: increased urination, thirst, dizziness, low potassium (causing muscle cramps), low sodium.",
+      "w":"Take in the morning. Monitor potassium levels. May need potassium supplements. Avoid excessive sun exposure. Regular blood tests needed."
+    },
+    {
+      "f":"Levothyroxine",
+      "b":["Synthroid","Eltroxin","Euthyrox","Thyronorm","Thyrox","Levaxin","Eutirox"],
+      "c":"Thyroid",
+      "u":"Levothyroxine is a synthetic thyroid hormone used to treat an underactive thyroid gland (hypothyroidism). It replaces or supplements the thyroid hormone that the gland cannot produce in adequate amounts. It is taken once daily and patients usually need to continue it for life. Regular thyroid function tests are needed to ensure the correct dose.",
+      "s":"This medicine treats: Hypothyroidism (underactive thyroid), Thyroid hormone deficiency, Prevention of goiter, Thyroid cancer (after surgery), Hashimoto's thyroiditis, Myxedema coma, Congenital hypothyroidism in newborns.",
+      "d":"Adults: Start with 25-50 micrograms daily. Increase by 25-50mcg every 4-6 weeks based on blood tests. Usual maintenance 100-200mcg daily.",
+      "se":"When dose is too high: rapid heartbeat, sweating, weight loss, anxiety, insomnia, tremors. At correct dose: no side effects.",
+      "w":"Take on empty stomach 30-60 minutes before breakfast. Many medicines and foods affect absorption. Calcium, iron, antacids reduce absorption. Regular thyroid tests essential."
+    },
+    {
+      "f":"Allopurinol",
+      "b":["Zyloric","Uricol","Goutnil","Zyloprim","Allohexal","Progout","Allosig"],
+      "c":"Gout",
+      "u":"Allopurinol is used to prevent gout attacks and kidney stones caused by high uric acid levels. It works by reducing the production of uric acid in the body. It does not treat an acute gout attack but prevents future attacks when taken regularly. It usually takes several months before full benefit is seen.",
+      "s":"This medicine treats: Gout prevention, High uric acid levels (hyperuricemia), Kidney stones from uric acid, Prevention of tumor lysis syndrome in cancer treatment, Recurrent kidney stones, Joint damage from chronic gout.",
+      "d":"Adults: Start with 100mg once daily. Increase by 100mg every 4 weeks to 200-300mg daily for mild gout. Up to 600mg daily for severe cases. Take after meals.",
+      "se":"Common: skin rash (stop immediately if severe rash develops), nausea, drowsiness, diarrhea. Serious: severe skin reactions, liver problems.",
+      "w":"Stop immediately if skin rash develops. Drink plenty of water. Do not start during an acute gout attack. Increase dose gradually."
+    },
+    {
+      "f":"Prednisolone",
+      "b":["Omnacortil","Deltacortril","Prelone","Decortin","Solondo"],
+      "c":"Steroid",
+      "u":"Prednisolone is a corticosteroid medicine that reduces inflammation and suppresses the immune system. It is used for a wide range of conditions including asthma, allergies, inflammatory bowel disease, arthritis, and autoimmune diseases. It is very effective but has significant side effects especially with long-term use.",
+      "s":"This medicine treats: Severe asthma attacks, Allergic reactions, Rheumatoid arthritis, Inflammatory bowel disease, Lupus, Skin conditions like eczema and psoriasis, Kidney disease, Eye inflammation, Blood disorders, Organ transplant rejection prevention.",
+      "d":"Adults: 5-60mg daily depending on condition. Asthma attack: 40-50mg once daily for 5 days. Always take with food. Do not stop suddenly after long use.",
+      "se":"Short term: increased appetite, weight gain, mood changes, insomnia, raised blood sugar. Long term: weakened bones, muscle weakness, cataracts, increased infection risk.",
+      "w":"Never stop suddenly after long term use. Carry steroid card. Increased infection risk. Monitor blood sugar. Avoid people with chickenpox or measles."
+    },
+    {
+      "f":"Azithromycin",
+      "b":["Zithromax","Azithral","Atizor","Azicip","Z-pak","Zithrox","Azimax"],
+      "c":"Antibiotic",
+      "u":"Azithromycin is a macrolide antibiotic commonly prescribed for respiratory and skin infections. Its convenient once-daily dosing and short treatment course make it one of the most popular antibiotics. It accumulates in infected tissues providing effective treatment even after the course is completed.",
+      "s":"Chest infections, Throat infections, Ear infections, Skin infections, Chlamydia, Sinusitis, Typhoid, H. pylori.",
+      "d":"Adults: 500mg once daily for 3-5 days. Children: 10mg per kg once daily.",
+      "se":"Nausea, diarrhea, stomach pain, heart rhythm issues with long use.",
+      "w":"Avoid in liver disease. Tell doctor about heart problems. Do not take antacids within 2 hours."
+    },
+    {
+      "f":"Doxycycline",
+      "b":["Vibramycin","Doxytet","Periostat","Monodox","Oracea","Adoxa"],
+      "c":"Antibiotic",
+      "u":"Doxycycline is a tetracycline antibiotic used to treat many different bacterial infections. It is also used to prevent malaria in travelers and to treat acne. It works by stopping the growth of bacteria. It is well absorbed orally and remains effective against many bacteria that have developed resistance to other antibiotics.",
+      "s":"This medicine treats: Chest infections and pneumonia, Urinary tract infections, Skin infections and acne, Sexually transmitted infections (chlamydia, gonorrhea), Malaria prevention, Lyme disease, Rocky Mountain spotted fever, Anthrax prevention.",
+      "d":"Adults: 100mg twice daily for most infections, or 200mg on day 1 then 100mg daily. Malaria prevention: 100mg daily starting 2 days before travel. Take with plenty of water.",
+      "se":"Common: nausea, vomiting, diarrhea, skin sensitivity to sunlight, esophageal irritation.",
+      "w":"Avoid in pregnancy and children under 8. Do not lie down for 30 minutes after taking. Use sunscreen. Take with food but avoid dairy products and antacids."
+    },
+    {
+      "f":"Folic Acid",
+      "b":["Folvite","Folacin","Folate","Folicip","Fol","Folifer","Lexpec"],
+      "c":"Vitamin",
+      "u":"Folic acid is a B vitamin (B9) that is essential for cell growth and DNA synthesis. It is most important during pregnancy as it prevents neural tube defects (spina bifida) in the developing baby. It is also used to treat folate deficiency anemia and is taken by patients on certain medicines that deplete folate.",
+      "s":"This medicine treats: Prevention of neural tube defects in pregnancy, Folate deficiency anemia, Megaloblastic anemia, Prevention of deficiency in patients taking methotrexate or phenytoin, Pre-conception supplementation, Supporting cell growth and division.",
+      "d":"Pregnancy prevention of defects: 400 micrograms daily starting before conception and for first 12 weeks. Folate deficiency: 5mg once daily for 4 months. High risk pregnancies: 5mg daily.",
+      "se":"Very safe. Rare: allergic reactions. High doses may hide vitamin B12 deficiency.",
+      "w":"Ideally start taking at least one month before trying to conceive. Women with epilepsy or diabetes need higher doses. Check with doctor."
+    },
+    {
+      "f":"Trimethoprim+Sulphamethoxazole",
+      "b":["Septran","Bactrim","Co-trimoxazole","Cotrim","Trisul","Neoset","Resprim"],
+      "c":"Antibiotic",
+      "u":"Co-trimoxazole (Septran/Bactrim) is a combination antibiotic containing trimethoprim and sulfamethoxazole. The combination is more effective than either drug alone and works against a wide range of bacteria. It is commonly used for urinary tract infections, chest infections, and ear infections. It is also used to prevent and treat Pneumocystis pneumonia in patients with HIV.",
+      "s":"This medicine treats: Urinary tract infections, Chest infections (bronchitis, pneumonia), Ear infections (otitis media), Traveler's diarrhea, Typhoid fever, Pneumocystis pneumonia in HIV patients, Skin and wound infections, Nocardiosis.",
+      "d":"Adults: 960mg (2 standard tablets) twice daily for most infections. UTI: can use half dose for 3 days. Children: dose based on weight.",
+      "se":"Common: nausea, vomiting, skin rash, diarrhea. Serious: severe skin reactions (Stevens-Johnson syndrome), blood disorders, kidney problems.",
+      "w":"Tell doctor about sulfa drug allergy. Drink plenty of water. Avoid excessive sun exposure. Not recommended in last month of pregnancy."
+    },
+    {
+      "f":"Clotrimazole",
+      "b":["Canesten","Lotrisone","Fungizid","Clotri","Lotrimin","Mycelex"],
+      "c":"Antifungal",
+      "u":"Clotrimazole is an antifungal medicine used to treat fungal skin infections, vaginal thrush, and oral thrush (in lozenge form). It works by killing the fungus or preventing it from growing. It is available as cream, powder, spray, vaginal pessary, and lozenges for different types of fungal infections.",
+      "s":"This medicine treats: Athlete's foot (tinea pedis), Ringworm (tinea corporis), Jock itch (tinea cruris), Vaginal thrush (candidiasis), Oral thrush (candidiasis), Fungal nail infections, Pityriasis (skin discoloration from fungus), Skin fold infections.",
+      "d":"Skin cream: apply twice daily for 2-4 weeks. Vaginal: single 500mg pessary or 200mg for 3 days or 100mg for 6 days. Continue for 2 weeks after symptoms resolve.",
+      "se":"Skin irritation, burning, stinging at application site. These are usually mild and temporary.",
+      "w":"Avoid contact with eyes. For vaginal use avoid sexual intercourse during treatment. Can damage latex condoms and diaphragms."
+    },
+    {
+      "f":"Fluconazole",
+      "b":["Diflucan","Forcan","Flucos","Syscan","Zocon","Flucaz","Flucanol"],
+      "c":"Antifungal",
+      "u":"Fluconazole is a systemic antifungal medicine taken orally or given by injection to treat serious fungal infections. It is highly effective against Candida (thrush) infections and is often given as a single dose for vaginal thrush. It is also used for cryptococcal meningitis and to prevent fungal infections in immunocompromised patients.",
+      "s":"This medicine treats: Vaginal thrush (single dose), Oral thrush, Esophageal candidiasis, Cryptococcal meningitis, Systemic Candida infections, Prevention of fungal infections in cancer and transplant patients, Tinea infections, Nail fungal infections.",
+      "d":"Vaginal thrush: 150mg single dose. Oral thrush: 50mg daily for 7-14 days. Serious infections: 200-400mg daily for weeks.",
+      "se":"Common: nausea, headache, stomach pain, skin rash. Serious: liver damage, severe skin reactions, heart rhythm problems.",
+      "w":"Many drug interactions. Tell doctor all medicines you take. Avoid in pregnancy. Liver function monitoring needed for long-term use."
+    },
+    {
+      "f":"Hydroxychloroquine",
+      "b":["Plaquenil","Hcqs","Axemal","Dolquine","Hydroquin","HCQ"],
+      "c":"Antimalarial",
+      "u":"Hydroxychloroquine is an antimalarial medicine that is also widely used to treat autoimmune conditions including lupus and rheumatoid arthritis. It modulates the immune system and reduces inflammation. It takes several months to show its full effect in autoimmune conditions. It gained attention during COVID-19 pandemic but was not proven effective for this use.",
+      "s":"This medicine treats: Systemic lupus erythematosus (SLE), Rheumatoid arthritis, Discoid lupus, Malaria prevention and treatment, Sjogren's syndrome, Inflammation related to autoimmune conditions, Skin manifestations of lupus.",
+      "d":"Lupus and rheumatoid arthritis: 200-400mg daily. Malaria prevention: 400mg once weekly starting 2 weeks before travel. Based on body weight to avoid toxicity.",
+      "se":"Common: nausea, stomach cramps, skin rash, headache. Serious with long use: eye damage (retinopathy), heart rhythm problems.",
+      "w":"Regular eye examinations essential (every year after 5 years use). Baseline eye test before starting. Take with food to reduce nausea."
+    },
+    {
+      "f":"Acyclovir",
+      "b":["Zovirax","Acivir","Herpex","Acyclo","Ocuvir","Lysvir","Zovir"],
+      "c":"Antiviral",
+      "u":"Acyclovir is an antiviral medicine used to treat infections caused by herpes viruses. These include cold sores, genital herpes, chickenpox, shingles, and herpes encephalitis. It works by interfering with the virus's ability to copy its DNA. It does not cure herpes but reduces symptoms, speeds healing, and can prevent recurrences when taken regularly.",
+      "s":"This medicine treats: Genital herpes (first episode and recurrences), Cold sores (herpes labialis), Chickenpox (especially in adults and immunocompromised), Shingles (herpes zoster), Herpes encephalitis (brain infection), Eye herpes infections, Prevention of herpes in immunocompromised patients.",
+      "d":"Cold sores cream: apply 5 times daily for 5 days. Genital herpes tablets: 200-400mg five times daily for 5-10 days. Shingles: 800mg five times daily for 7 days.",
+      "se":"Common: nausea, headache, diarrhea with oral tablets. Cream may cause stinging or burning.",
+      "w":"Drink plenty of water especially with high doses. Start treatment as early as possible when symptoms begin. Cream should not be used in eyes."
+    },
+    {
+      "f":"Domperidone",
+      "b":["Motilium","Domstal","Domperi","Motinorm","Vomistop","Peridys","Costi"],
+      "c":"Antiemetic",
+      "u":"Domperidone is an antiemetic and prokinetic medicine used to relieve nausea and vomiting and to speed up stomach emptying. It works by blocking dopamine receptors in the upper digestive system and in a specific area of the brain. Unlike metoclopramide it does not cross the blood brain barrier making it safer for long-term use.",
+      "s":"This medicine treats: Nausea and vomiting, Gastroparesis (slow stomach emptying), Bloating and fullness after meals, Acid reflux symptoms, Nausea from cancer treatment, Nausea from Parkinson's disease treatment, Functional dyspepsia.",
+      "d":"Adults: 10mg up to three times daily before meals. Maximum 30mg per day. Use lowest effective dose for shortest time.",
+      "se":"Common: dry mouth, headache, diarrhea. Serious: heart rhythm problems with high doses or in elderly patients.",
+      "w":"Use lowest dose for shortest time. Avoid in patients with heart problems. Not recommended for long-term use. Avoid in liver disease."
+    },
+    {
+      "f":"Ondansetron",
+      "b":["Zofran","Emeset","Perinorm","Vomiz","Ondaz","Emistat"],
+      "c":"Antiemetic",
+      "u":"Ondansetron is a powerful antiemetic used to prevent and treat nausea and vomiting caused by chemotherapy, radiotherapy, and surgery. It works by blocking serotonin receptors that trigger the vomiting reflex. It is highly effective and is considered the gold standard for preventing chemotherapy-induced nausea and vomiting.",
+      "s":"This medicine treats: Nausea and vomiting from chemotherapy, Nausea from radiotherapy, Post-operative nausea and vomiting, Severe morning sickness in pregnancy, Gastroenteritis vomiting, Migraine with nausea.",
+      "d":"Adults: 8mg before chemotherapy then 8mg every 12 hours for 2 days. Post-surgery: 4mg by injection at induction. Tablets: 4-8mg up to three times daily.",
+      "se":"Common: headache, constipation, warm feeling or flushing. Serious: heart rhythm problems, serotonin syndrome.",
+      "w":"ECG monitoring needed in patients with heart problems. Can cause constipation. Avoid in patients with prolonged QT interval."
+    },
+    {
+      "f":"Loperamide",
+      "b":["Imodium","Lopex","Lopamide","Diarlop","Diastop","Imodium Plus","Arret"],
+      "c":"Antidiarrheal",
+      "u":"Loperamide is an antidiarrheal medicine used to control and relieve symptoms of diarrhea. It works by slowing down gut movements and reducing fluid secretion into the intestine. It is available without prescription for acute diarrhea and with prescription for chronic diarrhea conditions. It does not treat the cause of diarrhea but provides rapid symptom relief.",
+      "s":"This medicine treats: Acute diarrhea (traveler's diarrhea, gastroenteritis), Chronic diarrhea (IBS with diarrhea), Diarrhea after intestinal surgery, Ileostomy diarrhea management, Chemotherapy-induced diarrhea.",
+      "d":"Adults: 4mg initially then 2mg after each loose stool. Maximum 16mg per day. Children: dose based on weight and age. Drink plenty of fluids.",
+      "se":"Common: constipation, stomach pain, bloating, nausea, dizziness. Serious: severe constipation, toxic megacolon with prolonged use.",
+      "w":"Do not use if bloody diarrhea or high fever. Stop if no improvement after 48 hours. Not suitable for children under 2. Rehydrate adequately."
+    },
+    {
+      "f":"Calcium Carbonate",
+      "b":["Calcichew","Caltrate","Os-Cal","Calcirol","Shelcal","Calcimax"],
+      "c":"Supplement",
+      "u":"Calcium carbonate is used as a calcium supplement to prevent and treat calcium deficiency. It is also used as an antacid to treat heartburn and indigestion. Calcium is essential for strong bones and teeth, muscle function, nerve transmission, and blood clotting. It is often prescribed with Vitamin D to improve absorption.",
+      "s":"This medicine treats: Calcium deficiency, Osteoporosis prevention and treatment, Heartburn and indigestion, Low calcium in blood (hypocalcemia), Bone loss from steroid use, Pregnancy and breastfeeding calcium needs, Prevention of bone fractures.",
+      "d":"Supplement: 500-1000mg daily with meals. Antacid: chew 500mg tablets as needed for heartburn. Take with Vitamin D for better absorption.",
+      "se":"Common: constipation, gas, belching. High doses: kidney stones, high blood calcium, nausea.",
+      "w":"Take with food for better absorption. Do not exceed recommended dose. Interferes with absorption of some medicines including antibiotics and iron."
+    },
+    {
+      "f":"Vitamin D3",
+      "b":["Calcirol","Cholecalciferol","D-Vita","Arachitol","Vigantol","Dekristol"],
+      "c":"Vitamin",
+      "u":"Vitamin D3 (cholecalciferol) is the natural form of Vitamin D produced by the skin when exposed to sunlight. It is essential for calcium absorption, bone health, immune function, and muscle function. Deficiency is extremely common especially in countries with less sunlight and in people who cover their skin. Severe deficiency causes rickets in children and osteomalacia in adults.",
+      "s":"This medicine treats: Vitamin D deficiency, Rickets in children, Osteomalacia (soft bones) in adults, Osteoporosis (with calcium), Prevention of bone fractures, Immune system support, Muscle weakness from deficiency, Seasonal depression linked to low Vitamin D.",
+      "d":"Deficiency treatment: 1000-4000 IU daily for several months. Prevention: 400-800 IU daily. Severe deficiency: up to 50,000 IU weekly for 8-12 weeks under supervision.",
+      "se":"At normal doses: very safe. High doses: nausea, weakness, frequent urination, kidney stones, high blood calcium.",
+      "w":"Blood test before and during treatment to check levels. Do not exceed recommended doses without blood testing. Sun exposure also provides Vitamin D."
+    },
+    {
+      "f":"Ferrous Sulphate",
+      "b":["Fefol","Ferrograd","Iberet","Ferro-F","Tardyferon","Jectofer","Galfer"],
+      "c":"Iron supplement",
+      "u":"Ferrous sulphate is an iron supplement used to treat and prevent iron deficiency anemia. Iron is essential for making hemoglobin which carries oxygen in the blood. Iron deficiency is the most common nutritional deficiency worldwide and is especially common in women, children, and people with poor diet. Symptoms of deficiency include tiredness, weakness, and pale skin.",
+      "s":"This medicine treats: Iron deficiency anemia, Tiredness and weakness from low iron, Prevention of anemia in pregnancy, Anemia from heavy periods, Anemia from poor diet, Anemia from malabsorption, Prevention of anemia in premature babies.",
+      "d":"Adults: 200mg (65mg elemental iron) two to three times daily. Pregnant women: 200mg once or twice daily. Take on empty stomach for best absorption but with food if causing nausea.",
+      "se":"Common: stomach upset, nausea, constipation, black stools (harmless), diarrhea. Take with food if causing nausea.",
+      "w":"Black stools are normal and harmless. Vitamin C helps absorption. Avoid taking with tea, coffee, dairy or antacids. Keep away from children as overdose is dangerous."
+    },
+    {
+      "f":"Zinc",
+      "b":["Zincovit","Zinconia","Zincteral","Z-Plus","Zincbel","Zinco","Zincap"],
+      "c":"Supplement",
+      "u":"Zinc is an essential mineral needed for immune function, wound healing, growth, and taste and smell. It is used to treat zinc deficiency and is also used to reduce the duration of common cold symptoms when taken within 24 hours of onset. Zinc supplementation is important in malnutrition, diarrhea in children, and during pregnancy.",
+      "s":"This medicine treats: Zinc deficiency, Weakened immune system, Slow wound healing, Diarrhea in children (reduces severity and duration), Growth retardation, Loss of taste or smell, Acne (mild benefit), Age-related macular degeneration, Common cold (reduces duration).",
+      "d":"Adults: 25-45mg elemental zinc daily. Children with diarrhea: 20mg daily for 10-14 days. Take with food to reduce nausea.",
+      "se":"Common: nausea, stomach upset, vomiting, metallic taste, diarrhea. High doses: copper deficiency, impaired immune function.",
+      "w":"Do not exceed recommended dose. High doses can reduce copper absorption. Take with food. Keep away from children."
+    },
+    {
+      "f":"Metoclopramide",
+      "b":["Maxolon","Reglan","Perinorm","Metoclop","Primperan","Plasil"],
+      "c":"Antiemetic",
+      "u":"Metoclopramide is an antiemetic and prokinetic medicine that relieves nausea and vomiting and speeds up stomach emptying. It is used for diabetic gastroparesis, nausea from migraine, post-operative nausea, and nausea from chemotherapy. It works by blocking dopamine receptors in the brain and gut.",
+      "s":"This medicine treats: Nausea and vomiting, Gastroparesis (slow stomach emptying) in diabetes, Nausea with migraine, Post-operative nausea, Gastroesophageal reflux, Hiccups (persistent), Nausea from cancer treatment.",
+      "d":"Adults: 10mg up to three times daily before meals. Maximum use 5 days for nausea. By injection for severe cases.",
+      "se":"Common: drowsiness, restlessness, diarrhea. Serious: movement disorders (tardive dyskinesia with long use), especially in young people and elderly.",
+      "w":"Do not use for more than 5 days. Risk of serious movement disorders with long use. Avoid in young patients if possible. Do not drive if drowsy."
+    },
+    {
+      "f":"Tramadol",
+      "b":["Ultram","Tramal","Tramed","Tramacet","Zytram","Dolzam","Contramal"],
+      "c":"Painkiller",
+      "u":"Tramadol is a centrally acting opioid analgesic used to treat moderate to severe pain that has not responded to other pain medicines. It works by binding to opioid receptors and also by affecting serotonin and noradrenaline levels. It is less potent than morphine but still carries risk of dependence and should be used carefully.",
+      "s":"This medicine treats: Moderate to severe pain, Post-surgical pain, Injury pain, Back pain, Cancer pain, Neuropathic pain, Arthritis pain that has not responded to other medicines, Pain after dental procedures.",
+      "d":"Adults: 50-100mg every 4-6 hours as needed. Maximum 400mg daily. Elderly: start with lower doses. Do not crush modified release tablets.",
+      "se":"Common: nausea, dizziness, constipation, headache, drowsiness, dry mouth. Serious: seizures, serotonin syndrome, dependence, respiratory depression.",
+      "w":"Risk of addiction and dependence. Do not exceed recommended dose. Avoid alcohol. Do not drive until know how it affects you. Do not stop suddenly."
+    },
+    {
+      "f":"Naproxen",
+      "b":["Aleve","Naprosyn","Anaprox","Naprogesic","Synflex","Proxen"],
+      "c":"Anti-inflammatory",
+      "u":"Naproxen is a non-steroidal anti-inflammatory drug (NSAID) that provides longer lasting pain relief than ibuprofen. It is used for arthritis, menstrual cramps, tendinitis, bursitis, gout, and other painful conditions. Being a twice-daily medicine rather than three or four times daily makes it more convenient than shorter-acting NSAIDs.",
+      "s":"This medicine treats: Osteoarthritis, Rheumatoid arthritis, Ankylosing spondylitis, Menstrual cramps, Gout attacks, Tendinitis, Bursitis, Headache, Dental pain, Musculoskeletal pain and inflammation.",
+      "d":"Adults: 250-500mg twice daily with food. Maximum 1250mg on day 1 then 1000mg daily. For gout: 750mg initially then 250mg every 8 hours.",
+      "se":"Common: stomach upset, heartburn, nausea, headache. Serious: stomach ulcers, kidney damage, increased blood pressure, cardiovascular risk.",
+      "w":"Take with food. Avoid with other NSAIDs. Use lowest dose for shortest time. Avoid in pregnancy. Monitor kidney function."
+    },
+    {
+      "f":"Spironolactone",
+      "b":["Aldactone","Spiractin","Aldopur","Berlactone","Spironol","Spirolone"],
+      "c":"Diuretic",
+      "u":"Spironolactone is a potassium-sparing diuretic that also blocks aldosterone (a hormone that causes salt and water retention). It is used for heart failure, liver cirrhosis with fluid buildup, high blood pressure, and hormonal acne in women. In lower doses it is used to treat female hormonal conditions including polycystic ovary syndrome.",
+      "s":"This medicine treats: Heart failure (reduces mortality), Fluid retention from liver cirrhosis, High blood pressure, Primary hyperaldosteronism, Edema, Female hormonal acne, PCOS related symptoms, Hirsutism (excess hair in women), Low potassium due to other diuretics.",
+      "d":"Adults: 25-100mg daily. Heart failure: 25-50mg once daily. Fluid retention: 100-200mg daily initially then reduce. Take with food.",
+      "se":"Common: increased urination, breast tenderness, menstrual irregularities, high potassium, dizziness.",
+      "w":"Monitor potassium levels closely. Avoid potassium supplements unless prescribed. Can cause gynecomastia in men with long use. Avoid in kidney disease."
+    },
+    {
+      "f":"Carbamazepine",
+      "b":["Tegretol","Tegrital","Mazetol","Carbatol","Zen-retard","Timonil"],
+      "c":"Anticonvulsant",
+      "u":"Carbamazepine is used primarily to treat epilepsy and trigeminal neuralgia (severe facial pain). It is also used for bipolar disorder and certain pain conditions. It works by reducing electrical activity in the brain that causes seizures. It requires regular blood tests to monitor levels and check for side effects.",
+      "s":"This medicine treats: Epilepsy (partial and generalized seizures), Trigeminal neuralgia (severe facial nerve pain), Bipolar disorder, Neuropathic pain, Restless legs syndrome, Alcohol withdrawal, Diabetes insipidus.",
+      "d":"Epilepsy: Start 100-200mg once or twice daily. Increase gradually to 800-1200mg daily in divided doses. Trigeminal neuralgia: 200-400mg daily increasing to 400-800mg daily.",
+      "se":"Common: drowsiness, dizziness, double vision, nausea, unsteadiness especially when starting. Serious: severe skin reactions, blood disorders, liver problems.",
+      "w":"Do not stop suddenly. Regular blood counts and liver tests needed. Many drug interactions. Blood levels need monitoring. Avoid grapefruit juice."
+    },
+    {
+      "f":"Bisacodyl",
+      "b":["Dulcolax","Dulco-Lax","Correctol","Laxoberal","Stadalax"],
+      "c":"Laxative",
+      "u":"Bisacodyl is a stimulant laxative that works directly on the large intestine to stimulate bowel movements. It is used for short-term relief of constipation and to clear the bowel before surgery or medical procedures. It usually works within 6-12 hours when taken orally or within 30-60 minutes as a suppository.",
+      "s":"This medicine treats: Constipation (short-term relief), Bowel preparation before colonoscopy or surgery, Constipation from immobility, Constipation from opioid medicines, Neurogenic bowel management.",
+      "d":"Adults: 5-10mg oral tablet at night. Suppository: 10mg in the morning. Take tablets with plenty of water. Do not take within 1 hour of antacids or milk.",
+      "se":"Common: abdominal cramps, nausea, diarrhea. Long-term use: low potassium, laxative dependence, lazy bowel.",
+      "w":"Not for long-term use (maximum 5-7 days). Do not crush or chew tablets. Do not take with antacids. Increase dietary fiber and fluid intake."
+    },
+    {
+      "f":"Lactulose",
+      "b":["Duphalac","Lactugal","Laevolac","Regulose","Laxose","Gatinar"],
+      "c":"Laxative",
+      "u":"Lactulose is an osmotic laxative used to treat constipation and hepatic encephalopathy (brain confusion caused by liver disease). For constipation it draws water into the bowel softening stools. For hepatic encephalopathy it reduces ammonia absorption from the gut which helps clear the confusion caused by liver failure.",
+      "s":"This medicine treats: Constipation, Chronic constipation management, Hepatic encephalopathy, Prevention of straining in hemorrhoids, Constipation in elderly patients, Portal-systemic encephalopathy.",
+      "d":"Constipation adults: 15-30ml once or twice daily. Hepatic encephalopathy: 30-50ml three times daily, adjusted until 2-3 soft stools per day. Takes 24-48 hours to work.",
+      "se":"Common: bloating, wind, stomach cramps, nausea especially initially. These usually improve after first few days.",
+      "w":"Monitor electrolytes in elderly and patients with liver or kidney disease. Adjust dose to produce 2-3 soft stools daily. Not for patients who need low sugar diet."
+    },
+    {
+      "f":"Simvastatin",
+      "b":["Zocor","Simlup","Simcard","Simvotin","Liponorm","Simvacor"],
+      "c":"Cholesterol",
+      "u":"Simvastatin is a statin medicine used to lower high cholesterol and reduce the risk of heart disease. It works by blocking an enzyme in the liver that produces cholesterol. Regular use has been shown to reduce the risk of heart attacks, strokes, and cardiovascular deaths. It is usually taken in the evening as cholesterol production is highest at night.",
+      "s":"This medicine treats: High cholesterol, High LDL (bad cholesterol), High triglycerides, Prevention of heart attack and stroke, Coronary heart disease, Peripheral artery disease, Familial hypercholesterolemia.",
+      "d":"Adults: 10-40mg once daily in the evening. Maximum 80mg daily (high dose associated with muscle problems). Take at same time each evening.",
+      "se":"Common: headache, nausea, stomach pain, muscle aches. Serious: severe muscle damage (myopathy, rhabdomyolysis), liver problems.",
+      "w":"Take in the evening. Report unexplained muscle pain immediately. Avoid grapefruit juice. Regular liver tests. Not in pregnancy."
+    },
+    {
+      "f":"Ramipril",
+      "b":["Altace","Tritace","Ramace","Cardace","Hopace","Ramic","Triatec"],
+      "c":"Blood Pressure",
+      "u":"Ramipril is an ACE inhibitor used to treat high blood pressure, heart failure, and to protect the kidneys in diabetic patients. It works by blocking angiotensin converting enzyme which reduces the production of angiotensin II, a substance that narrows blood vessels. It is also used to reduce the risk of heart attack and stroke in high-risk patients.",
+      "s":"This medicine treats: High blood pressure, Heart failure, Prevention of heart attack and stroke in high-risk patients, Diabetic nephropathy (kidney protection), Left ventricular dysfunction after heart attack, Microalbuminuria in diabetes.",
+      "d":"Hypertension: Start 2.5mg once daily. Increase to 5-10mg once daily. Heart failure: Start 1.25mg twice daily. Can increase to 5mg twice daily over weeks.",
+      "se":"Common: dry persistent cough (very common), dizziness, high potassium, low blood pressure. Serious: angioedema (swelling of face/throat).",
+      "w":"Stop immediately and seek emergency help if face, throat or tongue swelling occurs. Monitor potassium and kidney function. Not safe in pregnancy."
+    },
+    {
+      "f":"Valsartan",
+      "b":["Diovan","Valzaar","Valpres","Vamlo","Valtan","Tareg"],
+      "c":"Blood Pressure",
+      "u":"Valsartan is an angiotensin receptor blocker (ARB) used to treat high blood pressure and heart failure. It is similar to ACE inhibitors but does not cause the dry cough that is common with ACE inhibitors. It is often chosen for patients who cannot tolerate ACE inhibitors due to cough. It also reduces the risk of cardiovascular events in high-risk patients.",
+      "s":"This medicine treats: High blood pressure, Heart failure, After heart attack to improve heart function, Diabetic nephropathy, Reduction of cardiovascular risk.",
+      "d":"Hypertension: 80-160mg once daily. Maximum 320mg once daily. Heart failure: Start 40mg twice daily. Increase to 80-160mg twice daily.",
+      "se":"Common: dizziness, viral infections, fatigue, high potassium, back pain.",
+      "w":"Not safe in pregnancy. Monitor potassium and kidney function. Avoid potassium supplements unless directed. Do not use with ACE inhibitors."
+    },
+    {
+      "f":"Duloxetine",
+      "b":["Cymbalta","Yentreve","Xeristar","Duzela","Dulane","Dulex"],
+      "c":"Antidepressant",
+      "u":"Duloxetine is a serotonin-noradrenaline reuptake inhibitor (SNRI) used to treat depression, anxiety, diabetic nerve pain, fibromyalgia, and stress urinary incontinence. By acting on both serotonin and noradrenaline it can be more effective than SSRIs for some patients especially those with associated pain symptoms.",
+      "s":"This medicine treats: Major depressive disorder, Generalized anxiety disorder, Diabetic peripheral neuropathy pain, Fibromyalgia, Chronic musculoskeletal pain, Stress urinary incontinence in women, Anxiety with depression.",
+      "d":"Depression: 60mg once daily. Anxiety: 30-60mg once daily. Nerve pain: 60mg once daily. Fibromyalgia: 30-60mg once daily. Take with or without food.",
+      "se":"Common: nausea, dry mouth, constipation, dizziness, insomnia, sweating, sexual problems. Nausea usually improves after first week.",
+      "w":"Do not stop suddenly. Takes 4-6 weeks for full effect. Monitor blood pressure. Avoid alcohol. Risk of suicidal thoughts initially especially in young people."
+    }
+  ]
+}
