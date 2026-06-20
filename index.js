@@ -1,6 +1,6 @@
 const express = require('express');
 const cors = require('cors');
-const drugsData = require('./drugs.json');
+const drugsData = require('./drugs_firestore.json');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
